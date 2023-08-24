@@ -8,6 +8,34 @@
 
 ## Installation
 
+## Development
+
+We use these modules:
+
+### [`standard-version`](https://github.com/conventional-changelog/standard-version)
+
+Easily creates a release with commit, bump and `CHANGELOG.md` generation. See https://github.com/conventional-changelog/standard-version for more configuration options.
+
+```
+npm run release
+```
+
+### [`typedoc`](https://typedoc.org/)
+
+Creates documentation from `ts` and `jsDoc` notations, generated into `API.md`. See https://typedoc.org/ for more configuration options
+
+```
+npm run docs
+```
+
+### [`git-cz`](https://www.npmjs.com/package/git-cz)
+
+We use `commitizen` for our commits. See https://www.npmjs.com/package/git-cz for more configuration options.
+
+```
+npm run commit
+```
+
 ## Contributions
 
 To contribute, start talking to us in the #dataplattform channel on our slack :)
