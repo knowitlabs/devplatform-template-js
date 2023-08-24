@@ -1,6 +1,34 @@
-# `@knowitlabs/your-package-name
+# `@knowitlabs/your-package-name`
 
-## Table of contents
+> This is a template repo for your JavaScript development needs! Feel free to change whatever config you need. This is just a bare minimum setup with:
+>
+> - Rollup build
+> - Typescript
+> - Release management (bump, commit, tag and `CHANGELOG.md` generation)
+> - Documentation generation
+> - Tests
+>
+> This repo also comes bundle with default configuration for:
+>
+> - Prettier
+> - ESLint
+> - TSLint
+> - MarkdownLint
+
+## Table of Contents
+
+- [`@knowitlabs/your-package-name`](#knowitlabsyour-package-name)
+  - [Table of Contents](#table-of-contents)
+  - [Overview](#overview)
+  - [Requirements](#requirements)
+  - [Installation](#installation)
+  - [Development](#development)
+    - [`standard-version`](#standard-version)
+    - [`typedoc`](#typedoc)
+    - [`git-cz`](#git-cz)
+  - [Contributions](#contributions)
+  - [License](#license)
+  - [Career](#career)
 
 ## Overview
 
